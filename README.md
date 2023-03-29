@@ -8,4 +8,4 @@
 - I'm fluent in Portuguese & English, currently learning French
 
 
-You can also find me at [stackoverflow](https://stackoverflow.com/users/7586354/rafael-duarte)
+You can also find me at [stackoverflow](https://stackoverflow.com/users/7586354/rafael-duarte) and [linkedin](https://www.linkedin.com/in/rafael-duarte-954045150/).
